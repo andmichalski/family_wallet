@@ -1,0 +1,4 @@
+home    500
+car     200
+food    800
+childs  400
